@@ -14,4 +14,4 @@ Fields are tab-separated. Each line corresponds to a single nucleotide polymorph
 This data uses reference human assembly build 37 (also known as Annotation Release 104). See 
 
 # Viewing
-The data is in [genome.txt](https://github.com/marencc/Challenge_1/master/genome.txt).
+The data is in [genome.txt](https://github.com/marencc/Challenge_1/blob/main/example_genome.txt).
